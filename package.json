@@ -1,0 +1,18 @@
+{
+  "name": "kenobi_bot",
+  "version": "1.0.0",
+  "description": "star wars meme fetcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rubabredwan",
+  "license": "ISC",
+  "dependencies": {
+    "director": "^1.2.8",
+    "dotenv": "^8.2.0",
+    "groupme": "^0.5.8",
+    "request": "^2.88.2",
+    "snoowrap": "^1.21.0"
+  }
+}
